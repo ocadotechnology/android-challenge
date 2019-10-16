@@ -15,7 +15,7 @@ Please make sure the project compiles before submitting it.
 Find below the information regarding our endpoints:
 
 -   *Base Endpoint:*
-	- "https://raw.githubusercontent.com/ocadotechnology/android-challenge/master"
+	- "https://raw.githubusercontent.com/ocadotechnology/mobile-challenge/master"
 
 -   *Product list:*
 	-   GET “/product/all.json”
