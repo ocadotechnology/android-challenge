@@ -1,4 +1,4 @@
-# Android Programming challenge
+# Mobile Programming challenge
 
 We want to have an application that has 2 screens.
 
@@ -13,6 +13,9 @@ Once you have finished the project, please get in contact with your recruiter an
 Please make sure the project compiles before submitting it.
 
 Find below the information regarding our endpoints:
+
+-   *Base Endpoint:*
+	- "https://raw.githubusercontent.com/ocadotechnology/android-challenge/master"
 
 -   *Product list:*
 	-   GET “/product/all.json”
