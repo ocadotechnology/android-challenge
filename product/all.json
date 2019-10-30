@@ -1,7 +1,7 @@
 {
   "clusters": [
     {
-      "tag": "Fresh > Fruit > Bananas",
+      "tag": "Bananas",
       "items": [
         {
           "id": 309396011,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "tag": "Food Cupboard > Sugar & Home Baking",
+      "tag": "Sugar & Home Baking",
       "items": [
         {
           "id": 386138011,
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "tag": "Fresh > Salads & Herbs > Cucumber",
+      "tag": "Cucumber",
       "items": [
         {
           "id": 240875011,
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "tag": "Bakery > Wraps, Pitta & Naan Bread > Naan Bread",
+      "tag": "Naan Bread",
       "items": [
         {
           "id": 91056011,
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "tag": "Fresh > Vegetables > Onions, Leeks & Garlic",
+      "tag": "Leeks & Garlic",
       "items": [
         {
           "id": 91500011,
