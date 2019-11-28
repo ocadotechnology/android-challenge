@@ -15,10 +15,10 @@ Please make sure the project compiles before submitting it.
 Find below the information regarding our endpoints:
 
 -   *Base Endpoint:*
-	- "https://raw.githubusercontent.com/ocadotechnology/mobile-challenge/master"
+	- "https://my-json-server.typicode.com/ocadotechnology/mobile-challenge"
 
 -   *Product list:*
-	-   GET “/product/all.json”
+	-   GET “/products”
   ```
   {
   "clusters": [
@@ -58,7 +58,7 @@ Find below the information regarding our endpoints:
 ```
 
 -   Product detail:
-	-   GET “/product/{product_id}.json”
+	-   GET “/product/{product_id}”
 ```
 {
   "id": 240875011,
